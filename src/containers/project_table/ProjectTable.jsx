@@ -21,7 +21,7 @@ const ProjectTable = () => {
                 </thead>
                 <tbody className="project_table-body">
                     <tr className='text_body'>
-                        <td>Investigación sobre las matas de medellín</td>
+                        <td>Investigación sobre las matas de bogotá</td>
                         <td>Mario Mendez</td>
                         <td>2022-14-08</td>
                         <td>Closed</td>
