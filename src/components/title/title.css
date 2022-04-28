@@ -1,0 +1,15 @@
+.title_container{
+    padding-left: 4%;
+    margin-top: 5%;
+    width: 937px;
+}
+
+
+.title_container p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+    color: #FFFFFF;
+}
