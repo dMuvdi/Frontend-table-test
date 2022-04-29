@@ -5,7 +5,7 @@ const ProjectTable = () => {
   return (
       <div className='container'>
         <div className='project_text'>
-            <p>Los proyectos de mi prima</p>
+            <p>Los proyectos de juan</p>
         </div>
         <div className='project_table_container'>
             <table className='projects_table' border=''>
